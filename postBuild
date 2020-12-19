@@ -1,1 +1,1 @@
-jupyter labextension install @jupyter-widgets/jupyterlab-git --minimize=False
+jupyter labextension install @jupyterlab/git --minimize=False
