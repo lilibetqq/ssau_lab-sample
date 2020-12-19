@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - numpy
+  - xeus-cling
   - pip
   - pip:
     - jupyterlab-git
