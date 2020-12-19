@@ -1,6 +1,6 @@
-name: example-environment
-channels:
-  - conda-forge
-dependencies:
-  - pip
- 
+# name: example-environment
+# channels:
+#   - conda-forge
+# dependencies:
+#   - pip
+#
